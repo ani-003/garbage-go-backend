@@ -6,8 +6,6 @@ This is the backend server for **GarbageGo**, a smart city garbage management sy
 
 ## 🚀 Features
 
-- 🔐 **JWT-based Authentication**  
-  Secure login for Users, Admins, and Garbage Collectors using mobile number and passcode.
 
 - 🧾 **RESTful API Endpoints**  
   Clean, modular endpoints for:
