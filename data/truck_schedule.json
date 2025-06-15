@@ -1,0 +1,447 @@
+{
+    "Kamarhati": {
+        "Nilgunj Rd - Narula More": [
+            {
+                "starting_time": 9,
+                "ending_time": 10,
+                "truck_id": "T345",
+                "collection_status": "",
+                "landmarks": [
+                    {
+                        "name": "Start of Nilgunj Road",
+                        "coordinates": {
+                            "lat": 22.65752,
+                            "lng": 88.377101
+                        },
+                        "radiusMeters": 50,
+                        "time": 9.0,
+                        "status": ""
+                    },
+                    {
+                        "name": "WBTC Bus Depot",
+                        "coordinates": {
+                            "lat": 22.66022,
+                            "lng": 88.377101
+                        },
+                        "radiusMeters": 50,
+                        "time": 9.06,
+                        "status": ""
+                    },
+                    {
+                        "name": "Indrapally Nilgunj Rd",
+                        "coordinates": {
+                            "lat": 22.66292,
+                            "lng": 88.377101
+                        },
+                        "radiusMeters": 50,
+                        "time": 9.12,
+                        "status": ""
+                    },
+                    {
+                        "name": "Rathtala More",
+                        "coordinates": {
+                            "lat": 22.66562,
+                            "lng": 88.377101
+                        },
+                        "radiusMeters": 50,
+                        "time": 9.18,
+                        "status": ""
+                    },
+                    {
+                        "name": "Panchatala New Rd",
+                        "coordinates": {
+                            "lat": 22.66832,
+                            "lng": 88.377101
+                        },
+                        "radiusMeters": 50,
+                        "time": 9.24,
+                        "status": ""
+                    },
+                    {
+                        "name": "Arabinda Maydaan",
+                        "coordinates": {
+                            "lat": 22.67102,
+                            "lng": 88.377101
+                        },
+                        "radiusMeters": 50,
+                        "time": 9.3,
+                        "status": ""
+                    },
+                    {
+                        "name": "Old Nimta Rd",
+                        "coordinates": {
+                            "lat": 22.67372,
+                            "lng": 88.377101
+                        },
+                        "radiusMeters": 50,
+                        "time": 9.36,
+                        "status": ""
+                    },
+                    {
+                        "name": "Colony Bazaar Rd",
+                        "coordinates": {
+                            "lat": 22.67642,
+                            "lng": 88.377101
+                        },
+                        "radiusMeters": 50,
+                        "time": 9.42,
+                        "status": ""
+                    },
+                    {
+                        "name": "6 Matha More",
+                        "coordinates": {
+                            "lat": 22.67912,
+                            "lng": 88.377101
+                        },
+                        "radiusMeters": 50,
+                        "time": 9.48,
+                        "status": ""
+                    },
+                    {
+                        "name": "NIT More",
+                        "coordinates": {
+                            "lat": 22.68182,
+                            "lng": 88.377101
+                        },
+                        "radiusMeters": 50,
+                        "time": 9.54,
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "starting_time": 10,
+                "ending_time": 11,
+                "truck_id": "T346",
+                "landmarks": [
+                    {
+                        "name": "Start of Nilgunj Road",
+                        "coordinates": {
+                            "lat": 22.65752,
+                            "lng": 88.377101
+                        },
+                        "radiusMeters": 50,
+                        "time": 10.0,
+                        "status": ""
+                    },
+                    {
+                        "name": "WBTC Bus Depot",
+                        "coordinates": {
+                            "lat": 22.659549,
+                            "lng": 88.377713
+                        },
+                        "radiusMeters": 50,
+                        "time": 10.06,
+                        "status": ""
+                    },
+                    {
+                        "name": "Indrapally Nilgunj Rd",
+                        "coordinates": {
+                            "lat": 22.661336,
+                            "lng": 88.378163
+                        },
+                        "radiusMeters": 50,
+                        "time": 10.15,
+                        "status": ""
+                    },
+                    {
+                        "name": "Rathtala More",
+                        "coordinates": {
+                            "lat": 22.663128,
+                            "lng": 88.378611
+                        },
+                        "radiusMeters": 50,
+                        "time": 10.22,
+                        "status": ""
+                    },
+                    {
+                        "name": "Panchatala New Rd",
+                        "coordinates": {
+                            "lat": 22.665453,
+                            "lng": 88.379233
+                        },
+                        "radiusMeters": 50,
+                        "time": 10.3,
+                        "status": ""
+                    },
+                    {
+                        "name": "Arabinda Maydaan",
+                        "coordinates": {
+                            "lat": 22.668169,
+                            "lng": 88.379602
+                        },
+                        "radiusMeters": 50,
+                        "time": 10.38,
+                        "status": ""
+                    },
+                    {
+                        "name": "Old Nimta Rd",
+                        "coordinates": {
+                            "lat": 22.670189,
+                            "lng": 88.380074
+                        },
+                        "radiusMeters": 50,
+                        "time": 10.45,
+                        "status": ""
+                    },
+                    {
+                        "name": "Colony Bazaar Rd",
+                        "coordinates": {
+                            "lat": 22.672066,
+                            "lng": 88.380653
+                        },
+                        "radiusMeters": 50,
+                        "time": 10.5,
+                        "status": ""
+                    },
+                    {
+                        "name": "6 Matha More",
+                        "coordinates": {
+                            "lat": 22.674098,
+                            "lng": 88.38029
+                        },
+                        "radiusMeters": 50,
+                        "time": 10.54,
+                        "status": ""
+                    },
+                    {
+                        "name": "NIT More",
+                        "coordinates": {
+                            "lat": 22.677487,
+                            "lng": 88.37931
+                        },
+                        "radiusMeters": 50,
+                        "time": 11.0,
+                        "status": ""
+                    }
+                ],
+                "collection_status": ""
+            }
+        ],
+        "Bt Rd - Skyhigh": [
+            {
+                "starting_time": 9,
+                "ending_time": 10,
+                "truck_id": "T307",
+                "landmarks": [
+                    {
+                        "name": "hati",
+                        "lat": "74.38497",
+                        "lng": "19.834863",
+                        "radius_meters": 50,
+                        "time": 9.0,
+                        "status": ""
+                    },
+                    {
+                        "name": "palki more",
+                        "lat": "94.38497",
+                        "lng": "99.834863",
+                        "radius_meters": 50,
+                        "time": 9.5,
+                        "status": ""
+                    }
+                ],
+                "collection_status": ""
+            },
+            {
+                "starting_time": 10,
+                "ending_time": 11,
+                "landmarks": [
+                    {
+                        "name": "lore rd",
+                        "lat": "34.38497",
+                        "lng": "89.834863",
+                        "radius_meters": 50,
+                        "time": 10.0,
+                        "status": ""
+                    },
+                    {
+                        "name": "kouss",
+                        "lat": "85.38497",
+                        "lng": "89.834863",
+                        "radius_meters": 50,
+                        "time": 11.0,
+                        "status": ""
+                    }
+                ],
+                "truck_id": "T464",
+                "collection_status": ""
+            }
+        ]
+    },
+
+"Balarambati": {
+        "Sirampur Rathtala - Patropara": [
+            {
+                "starting_time": 5.04,
+                "ending_time": 5.30,
+                "truck_id": "T878",
+                "landmarks": [
+                    {
+                        "name": "Rathtala More",
+                        "lat": "22.7926098",
+                        "lng": "88.2019381",
+                        "radius_meters": 50,
+                        "time": 4.53,
+                        "status": ""
+                    },
+                    {
+                        "name": "Belekul",
+                        "lat": "22.79304",
+                        "lng": "88.20407",
+                        "radius_meters": 50,
+                        "time": 5,
+                        "status": ""
+                    },
+                    {
+                        "name": "Bonomonshatala Road",
+                        "lat": "22.79349",
+                        "lng": "88.20578",
+                        "radius_meters": 50,
+                        "time": 5.12,
+                        "status": ""
+                    },
+                    
+                    {
+                        "name": "Panful Para",
+                        "lat": "22.796488",
+                        "lng": "88.206540",
+                        "radius_meters": 50,
+                        "time": 5.20,
+                        "status": ""
+                    },
+                    
+                    {
+                        "name": "Patropara",
+                        "lat": "22.79777",
+
+                        "lng": "88.20711",
+                        "radius_meters": 50,
+                        "time": 5.30,
+                        "status": ""
+                    }
+                ],
+                "collection_status": ""
+            }
+        ]
+    },
+
+    "DumDum": {
+        "Sithimore - Kuthighat": [
+            {
+                "starting_time": 9,
+                "ending_time": 10,
+                "truck_id": "T923",
+                "landmarks": [
+                    {
+                        "name": "uyiue",
+                        "lat": "38.38497",
+                        "lng": "87.834863",
+                        "radius_meters": 50,
+                        "time": 9.0,
+                        "status": ""
+                    },
+                    {
+                        "name": "lambo",
+                        "lat": "68.38497",
+                        "lng": "87.834863",
+                        "radius_meters": 50,
+                        "time": 9.25,
+                        "status": ""
+                    },
+                    {
+                        "name": "daka",
+                        "lat": "38.38497",
+                        "lng": "97.834863",
+                        "radius_meters": 50,
+                        "time": 9.45,
+                        "status": ""
+                    },
+                    {
+                        "name": "palki more",
+                        "lat": "94.38497",
+                        "lng": "99.834863",
+                        "radius_meters": 50,
+                        "time": 10.0,
+                        "status": ""
+                    }
+                ],
+                "collection_status": ""
+            },
+            {
+                "starting_time": 10,
+                "ending_time": 11,
+                "truck_id": "T704",
+                "landmarks": [
+                    {
+                        "name": "6 matha more",
+                        "lat": "34.38497",
+                        "lng": "89.834863",
+                        "radius_meters": 50,
+                        "time": 10.0,
+                        "status": ""
+                    },
+                    {
+                        "name": "kala more",
+                        "lat": "85.38497",
+                        "lng": "89.834863",
+                        "radius_meters": 50,
+                        "time": 11.0,
+                        "status": ""
+                    }
+                ],
+                "collection_status": ""
+            }
+        ],
+        "Bt Rd - Skyhigh": [
+            {
+                "starting_time": 9,
+                "ending_time": 10,
+                "truck_id": "T207",
+                "landmarks": [
+                    {
+                        "name": "hati",
+                        "lat": "74.38497",
+                        "lng": "19.834863",
+                        "radius_meters": 50,
+                        "time": 9.0,
+                        "status": ""
+                    },
+                    {
+                        "name": "palki more",
+                        "lat": "94.38497",
+                        "lng": "99.834863",
+                        "radius_meters": 50,
+                        "time": 9.5,
+                        "status": ""
+                    }
+                ],
+                "collection_status": ""
+            },
+            {
+                "starting_time": 10,
+                "ending_time": 11,
+                "truck_id": "T387",
+                "landmarks": [
+                    {
+                        "name": "lore rd",
+                        "lat": "34.38497",
+                        "lng": "89.834863",
+                        "radius_meters": 50,
+                        "time": 10.0,
+                        "status": ""
+                    },
+                    {
+                        "name": "kouss",
+                        "lat": "85.38497",
+                        "lng": "89.834863",
+                        "radius_meters": 50,
+                        "time": 10.5,
+                        "status": ""
+                    }
+                ],
+                "collection_status": ""
+            }
+        ]
+    }
+}

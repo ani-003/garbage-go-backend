@@ -1,0 +1,128 @@
+[
+  {
+    "latitude": 22.65752,
+    "longitude": 88.377101,
+    "municipality": "Kamarhati",
+    "route": "Nilgunj Rd - Narula More",
+    "truck_id": "T354",
+    "status": "started",
+    "timestamp": "2025-05-26T05:14:37.092Z"
+  },
+  {
+    "latitude": 22.659950000000002,
+    "longitude": 88.377101,
+    "municipality": "Kamarhati",
+    "route": "Nilgunj Rd - Narula More",
+    "truck_id": "T354",
+    "status": "moving",
+    "timestamp": "2025-05-26T05:14:42.099Z"
+  },
+  {
+    "latitude": 22.662380000000002,
+    "longitude": 88.377101,
+    "municipality": "Kamarhati",
+    "route": "Nilgunj Rd - Narula More",
+    "truck_id": "T354",
+    "status": "moving",
+    "timestamp": "2025-05-26T05:14:47.096Z"
+  },
+  {
+    "latitude": 22.66481,
+    "longitude": 88.377101,
+    "municipality": "Kamarhati",
+    "route": "Nilgunj Rd - Narula More",
+    "truck_id": "T354",
+    "status": "moving",
+    "timestamp": "2025-05-26T05:14:52.112Z"
+  },
+  {
+    "latitude": 22.65752,
+    "longitude": 88.377101,
+    "municipality": "Kamarhati",
+    "route": "Nilgunj Rd - Narula More",
+    "truck_id": "T354",
+    "status": "moving",
+    "timestamp": "2025-05-26T05:27:56.214Z"
+  },
+  {
+    "latitude": 22.66022,
+    "longitude": 88.377101,
+    "municipality": "Kamarhati",
+    "route": "Nilgunj Rd - Narula More",
+    "truck_id": "T354",
+    "status": "moving",
+    "timestamp": "2025-05-26T05:28:01.270Z"
+  },
+  {
+    "latitude": 22.66292,
+    "longitude": 88.377101,
+    "municipality": "Kamarhati",
+    "route": "Nilgunj Rd - Narula More",
+    "truck_id": "T354",
+    "status": "moving",
+    "timestamp": "2025-05-26T05:28:06.332Z"
+  },
+  {
+    "latitude": 22.66562,
+    "longitude": 88.377101,
+    "municipality": "Kamarhati",
+    "route": "Nilgunj Rd - Narula More",
+    "truck_id": "T354",
+    "status": "moving",
+    "timestamp": "2025-05-26T05:28:11.407Z"
+  },
+  {
+    "latitude": 22.66832,
+    "longitude": 88.377101,
+    "municipality": "Kamarhati",
+    "route": "Nilgunj Rd - Narula More",
+    "truck_id": "T354",
+    "status": "moving",
+    "timestamp": "2025-05-26T05:28:16.465Z"
+  },
+  {
+    "latitude": 22.67102,
+    "longitude": 88.377101,
+    "municipality": "Kamarhati",
+    "route": "Nilgunj Rd - Narula More",
+    "truck_id": "T354",
+    "status": "moving",
+    "timestamp": "2025-05-26T05:28:21.510Z"
+  },
+  {
+    "latitude": 22.67372,
+    "longitude": 88.377101,
+    "municipality": "Kamarhati",
+    "route": "Nilgunj Rd - Narula More",
+    "truck_id": "T354",
+    "status": "moving",
+    "timestamp": "2025-05-26T05:28:26.567Z"
+  },
+  {
+    "latitude": 22.67642,
+    "longitude": 88.377101,
+    "municipality": "Kamarhati",
+    "route": "Nilgunj Rd - Narula More",
+    "truck_id": "T354",
+    "status": "moving",
+    "timestamp": "2025-05-26T05:28:31.610Z"
+  },
+  {
+    "latitude": 22.67912,
+    "longitude": 88.377101,
+    "municipality": "Kamarhati",
+    "route": "Nilgunj Rd - Narula More",
+    "truck_id": "T354",
+    "status": "moving",
+    "timestamp": "2025-05-26T05:28:36.656Z"
+  },
+  {
+    "latitude": 22.68182,
+    "longitude": 88.377101,
+    "municipality": "Kamarhati",
+    "route": "Nilgunj Rd - Narula More",
+    "truck_id": "T354",
+    "status": "moving",
+    "timestamp": "2025-05-26T05:28:41.697Z"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Start of Nilgunj Road",
+    "coordinates": { "lat": 22.657520, "lng": 88.377101 },
+    "radiusMeters": 50
+  },
+  {
+    "name": "WBTC Bus Depot",
+    "coordinates": { "lat": 22.659549, "lng": 88.377713 },
+    "radiusMeters": 50
+  },
+  {
+    "name": "Indrapally Nilgunj Rd",
+    "coordinates": { "lat": 22.661336, "lng": 88.378163 },
+    "radiusMeters": 50
+  },
+  {
+    "name": "Rathtala More",
+    "coordinates": { "lat": 22.663128, "lng": 88.378611 },
+    "radiusMeters": 50
+  },
+  {
+    "name": "Panchatala New Rd",
+    "coordinates": { "lat": 22.665453, "lng": 88.379233 },
+    "radiusMeters": 50
+  },
+  {
+    "name": "Arabinda Maydaan",
+    "coordinates": { "lat": 22.668169, "lng": 88.379602 },
+    "radiusMeters": 50
+  },
+  {
+    "name": "Old Nimta Rd",
+    "coordinates": { "lat": 22.670189, "lng": 88.380074 },
+    "radiusMeters": 50
+  },
+  {
+    "name": "Colony Bazaar Rd",
+    "coordinates": { "lat": 22.672066, "lng": 88.380653 },
+    "radiusMeters": 50
+  },
+  {
+    "name": "6 Matha More",
+    "coordinates": { "lat": 22.674098, "lng": 88.380290 },
+    "radiusMeters": 50
+  },
+  {
+    "name": "NIT More",
+    "coordinates": { "lat": 22.677487, "lng": 88.379310 },
+    "radiusMeters": 50
+  }
+]
