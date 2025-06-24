@@ -4,7 +4,7 @@ const Collector = require("./models/Collectors"); // adjust path
 async function checkUserCredentials(username, password) {
   try {
     await mongoose.connect(
-      "mongodb+srv://anirban:sFYKfWJLkrp349Hb@gargodb.co0m9.mongodb.net/gargo?retryWrites=true&w=majority&appName=gargodb",
+      "",
       { useNewUrlParser: true, useUnifiedTopology: true }
     );
 
